@@ -5,6 +5,7 @@
 - 🌱 Estudando JavaScript atualmente
 - 📫 Contate-me no email: ingridcs.dev@gmail.com 
 - 😄 Pronomes: ela/dela
+- Meu site: ingridcs.com.br
 
 
 <div style="display: inline_block"><br>

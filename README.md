@@ -4,7 +4,7 @@
 - 🔭 Sou front end jr
 - 🌱 Estudando JavaScript atualmente
 - 📫 Contate-me no email: ingridcs.dev@gmail.com 
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 
 <div style="display: inline_block"><br>

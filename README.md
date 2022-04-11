@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ingrid👋
 
 
-- 🔭 Sou front end jr
+- 🔭 Sou front end
 - 🌱 Estudando JavaScript atualmente
 - 📫 Contate-me no email: ingridcs.dev@gmail.com 
 - 😄 Pronomes: ela/dela

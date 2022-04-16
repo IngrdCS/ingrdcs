@@ -3,7 +3,7 @@
 - 🌱 Estudando JavaScript atualmente
 - 📫 Contate-me no email: ingridcs.dev@gmail.com 
 - 😄 Pronomes: ela/dela
-- Meu site: https://www.ingridcs.com.br
+- Meu site: https://ingridcs.com.br
 
 
 <div style="display: inline_block"><br>

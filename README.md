@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Ingrid👋
 
-- 🌱 Estudando JavaScript atualmente
+- 🌱 Estudando JavaScript 
 - 📫 Contate-me no email: ingridcs.dev@gmail.com 
-- 😄 Pronomes: ela/dela
 - Meu site: https://ingridcs.com.br
 
 

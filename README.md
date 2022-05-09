@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ingrid👋
 
-- 🌱 Estudando JavaScript 
-- 📫 Contate-me no email: ingridcs.dev@gmail.com 
+-  Estudando JavaScript 
+-  Contate-me no email: ingridcs.dev@gmail.com 
 - Meu site: https://ingridcs.com.br
 
 

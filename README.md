@@ -3,6 +3,7 @@
 -  Estudando JavaScript 
 -  Contate-me no email: ingridcs.dev@gmail.com 
 - Meu site: https://ingridcs.com.br
+- Pronomes: ela/dela
 
 
 <div style="display: inline_block"><br>

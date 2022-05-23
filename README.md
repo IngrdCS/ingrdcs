@@ -1,9 +1,9 @@
 
--    Olá! Eu sou a Ingrid👋
--    Estudando JavaScript atualmente
--    Pronomes: ela/dela
--    Contate-me no email: ingridcs.dev@gmail.com 
--    Meu site: https://ingridcs.com.br
+-    Hey!! I'm Ingrid. 👋
+-    I'm constantly studying JavaScript
+-    Pronouns: she/her
+-    Contate me: ingridcs.dev@gmail.com 
+-    My personal website: https://ingridcs.com.br
 
 <br>
 
